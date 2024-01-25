@@ -1,0 +1,94 @@
+
+     INSERT
+     INTO
+       animal
+       (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id-recebedor, nome_recebedor, porte)
+     VALUES
+       ('Cao', 'Amora', 8, 'Perdigueiro Americano', NOW(), 'Abaixo do peso',1, 'Renan', 'Medio');
+
+       INSERT
+       INTO
+         animal
+         (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id-recebedor, nome_recebedor, porte)
+       VALUES
+         ('Cao', 'Costela', 4, 'SRD', NOW(), 'Com carrapatos', 3, 'Guilherme', 'Medio');
+
+       INSERT
+       INTO
+          animal
+          (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id-recebedor, nome_recebedor, porte)
+       VALUES
+          ('Cao', 'Hotdog', 1, '', NOW(), 'Com carrapatos', 3, 'Guilherme', 'Medio');
+       INSERT
+       INTO
+          animal
+          (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada,id-recebedor, nome_recebedor, porte)
+       VALUES
+          ('Gato', 'Lua', 18, '', NOW(), 'Bem idosa', 2, 'Tais', 'pequeno');
+
+       INSERT
+       INTO
+          animal
+          (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id-recebedor, nome_recebedor, porte)
+       VALUES
+          ('Gato', 'Estrela', 8, '', NOW(), 'Obesa', 2, 'Tais', 'Medio');
+
+       INSERT
+       INTO
+          animal
+          (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id-recebedor, nome_recebedor, porte)
+       VALUES
+          ('C
+
+
+
+
+
+
+
+
+
+
+
+
+
+          INSERT
+          INTO
+            animal
+            (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id_recebedor, nome_recebedor, porte)
+          VALUES
+            ('Cao', 'Amora', 8, 'Perdigueiro Americano', NOW(), 'Abaixo do peso',1, 'Renan', 'Medio');
+
+            INSERT
+            INTO
+              animal
+              (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id_recebedor, nome_recebedor, porte)
+            VALUES
+              ('Cao', 'Costela', 4, 'SRD', NOW(), 'Com carrapatos', 3, 'Guilherme', 'Medio');
+
+            INSERT
+            INTO
+               animal
+             (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id_recebedor, nome_recebedor, porte)
+            VALUES
+               ('Cao', 'Hotdog', 1, '', NOW(), 'Com carrapatos', 3, 'Guilherme', 'Medio');
+            INSERT
+            INTO
+               animal
+              (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id_recebedor, nome_recebedor, porte)
+               VALUES
+               ('Gato', 'Lua', 18, '', NOW(), 'Bem idosa', 2, 'Tais', 'pequeno');
+
+            INSERT
+            INTO
+               animal
+              (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id_recebedor, nome_recebedor, porte)
+              VALUES
+               ('Gato', 'Estrela', 8, '', NOW(), 'Obesa', 2, 'Tais', 'Medio');
+
+            INSERT
+            INTO
+               animal
+              (especie, nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, id_recebedor, nome_recebedor, porte)
+              VALUES
+               ('Cao', 'Megg', 9, '', NOW(), 'Com carrapatos', 1, 'Renan', 'Pequeno');
