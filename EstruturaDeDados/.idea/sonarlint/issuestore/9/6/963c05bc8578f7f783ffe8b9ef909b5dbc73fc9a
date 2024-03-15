@@ -1,4 +1,11 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á‹ëë8©©ƒ‹Ô1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á‹ëë8„ĞÄ×1
 N
-java:S1135"2Complete the task associated to this TODO comment.(““ãm8Á©ƒ‹Ô1
+java:S1135"2Complete the task associated to this TODO comment.(““ãm8‹ĞÄ×1
+y	java:S116"XRename this field "STANDARD_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£â¯•üÿÿÿÿ8ëÆ×1
+G	java:S106J"+Replace this use of System.out by a logger.(ÇÉã8ĞÄ×1
+X	java:S125G"<This block of commented-out lines of code should be removed.(™ÿê†8ìôÌ×1
+L	java:S106K"+Replace this use of System.out by a logger.(‡¢ÊÒşÿÿÿÿ8ĞÄ×1
+L	java:S106L"+Replace this use of System.out by a logger.(©£˜ğúÿÿÿÿ8ĞÄ×1
+G	java:S106M"+Replace this use of System.out by a logger.(†‡µ‘8ĞÄ×1
+L	java:S106N"+Replace this use of System.out by a logger.(¼¾Éûÿÿÿÿ8ĞÄ×1
