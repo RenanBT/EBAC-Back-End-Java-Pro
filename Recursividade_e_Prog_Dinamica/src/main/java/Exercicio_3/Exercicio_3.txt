@@ -1,0 +1,17 @@
+
+
+Na abordagem Recursiva simples acomplexidade de tempo é exponencial, O(2^n) pois para cada chamada recursiva, há duas chamadas adicionais.
+Isso leva a uma árvore de recursão com 2n2n nós.
+
+Já aplicando a programação dinâmica a complexidade de tempo é linear, O(N), pois precisamos calcular os valores de Fibonacci de 2 até N apenas uma vez e
+armazená-los em um array.
+
+
+Por que a solução feita com programação dinâmica é melhor?
+
+A solução com programação dinâmica é melhor porque tem uma complexidade de tempo muito menor. Enquanto a abordagem recursiva simples tem uma complexidade exponencial,
+ a abordagem bottom-up tem uma complexidade linear. Isso significa que, à medida que o valor de nn aumenta, a abordagem bottom-up será muito mais eficiente em termos de
+ tempo de execução.
+Além disso, a abordagem bottom-up evita recálculos de subproblemas, o que é uma característica chave da programação dinâmica.
+Essa abordagem armazena os resultados intermediários em uma tabela (ou array), permitindo que eles sejam reutilizados para calcular os resultados de problemas maiores.
+Isso reduz significativamente o tempo de execução e melhora a eficiência do algoritmo em comparação com a abordagem recursiva simples.
